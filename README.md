@@ -7,7 +7,7 @@
 <br>
 
 # 👀 Sobre o projeto
-O Marry me! é basicamente uma landing page que contem a pergunta "Quer se casar comigo?" e os botões "sim" e "não". A curiosidade é justamente conseguir clicar no botão "não" rs.
+O Marry me! é basicamente uma landing page que contém a pergunta "Quer se casar comigo?" e os botões "sim" e "não". A curiosidade é justamente conseguir clicar no botão "não" rs.
 
 
 <br>
