@@ -20,7 +20,7 @@ Dando os devidos créditos, essa foi a [postagem no linkedIn do Fernando](https:
 
 # 📲 Acessar
 Se você quiser testar o app, apenas acesse o link abaixo:
-- [Marry me!](Em Breve)
+- [Marry me!](https://justmarryme.netlify.app/)
 
 <br>
 
