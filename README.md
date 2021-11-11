@@ -14,7 +14,7 @@ O Marry me! é basicamente uma landing page que contém a pergunta "Quer se casa
 
 # 🤔 Por que?
 A ideia desse app foi totalmente baseado em uma publicação que vi no LinkedIn. Como achei a ideia do projeto muito engraçada, e fiquei curioso se conseguiria fazer o mesmo com uma stack web resolvi fazê-lo. 
-Dando os devidos créditos, essa foi a [postagem no linkedIn do Fernando](https://www.linkedin.com/feed/update/urn:li:activity:6860672333057687552/) e o [projeto no github dele](https://github.com/F3rnando-Dev/PedidoCasamento) também.
+Dando os devidos créditos, essa foi a [postagem no linkedIn do Fernando](https://www.linkedin.com/feed/update/urn:li:activity:6860672333057687552/) e o [projeto no github dele](https://github.com/F3rnando-Dev/PedidoCasamento) também. Se você quiser usar o código ou simplesmente usar o site para um pedido de namoro ou casamento, fica à vontade kkkk.
 
 <br>
 
