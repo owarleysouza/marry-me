@@ -5,7 +5,7 @@
       <div id="box" class="div-button">
         <button id="float-button">Não</button>
       </div>
-      <button>Sim</button>
+      <router-link to="/confirm" tag="button">Sim</router-link>
     </div>
   </div>
 </template>
@@ -15,7 +15,6 @@ export default {
   name: "Home",
   mounted() {
     var divButton = document.getElementById("box");
-    console.log("entrou");
     divButton.onmouseover = function (e) {
       e.preventDefault();
       var positionTop = Math.floor(Math.random() * 70 + 5);
